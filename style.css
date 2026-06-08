@@ -758,3 +758,14 @@ button { cursor: pointer; }
   gap: 10px;
   margin-bottom: 13px;
 }
+.brand-mark {
+  overflow: hidden;
+}
+
+.brand-mark img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 14px;
+  display: block;
+}

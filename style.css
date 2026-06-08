@@ -752,3 +752,9 @@ button { cursor: pointer; }
   display: inline-flex;
   margin-left: 0;
 }
+.card-status-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 18px;
+}

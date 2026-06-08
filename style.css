@@ -744,3 +744,11 @@ button { cursor: pointer; }
 .btn-disabled {
   margin-top: auto;
 }
+.status-open,
+.status-closed {
+  width: fit-content;
+  max-width: max-content;
+  align-self: flex-start;
+  display: inline-flex;
+  margin-left: 0;
+}
